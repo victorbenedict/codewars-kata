@@ -21,5 +21,3 @@ function solution(number) {
 
   return result;
 }
-
-console.log(solution(10));
