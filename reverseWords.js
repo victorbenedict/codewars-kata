@@ -14,5 +14,3 @@ function reverseWords(str) {
 
   return reverseStr.join(' ');
 }
-
-console.log(reverseWords('a b c d'));
