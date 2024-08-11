@@ -26,5 +26,3 @@ function validBraces(braces) {
 
   return true;
 }
-
-console.log(validBraces('()()()'));
