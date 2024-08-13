@@ -3,9 +3,8 @@
  *
  * Find the alphabet position of a letter.
  * @param {string} letter
- * @returns {string} - The statement of what is the position of the letter.
+ * @returns {string} The statement of what is the position of the letter.
  */
-
 function position(letter) {
   return `Position of alphabet: ${letter.toUpperCase().charCodeAt() - 64}`;
 }

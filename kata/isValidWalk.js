@@ -31,5 +31,3 @@ function isValidWalk(walk) {
 
   return x === 0 && y === 0;
 }
-
-console.log(isValidWalk(['n', 's', 'n', 's', 'n', 's', 'n', 's', 'n', 's']));

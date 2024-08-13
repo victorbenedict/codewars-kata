@@ -1,13 +1,10 @@
-//
-
 /**
  * Kata - https://www.codewars.com/kata/514b92a657cdc65150000006
  * Calculate the total sum of all natural numbers below of a number.
  *
- * @param {number} number - The number.
- * @returns {number} - The total sum of all natural numbers.
+ * @param {number} number The number.
+ * @returns {number} The total sum of all natural numbers.
  */
-
 function solution(number) {
   if (number < 0) return 0;
 

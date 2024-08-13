@@ -6,8 +6,8 @@ const _ = require('lodash');
  * Transforms a string such that each character is repeated
  * based on its position in the string, with the first letter capitalized
  * and subsequent letters in lowercase, separated by hyphens.
- * @param {string} s - The input string.
- * @returns {number} - The mumbled string.
+ * @param {string} s The input string.
+ * @returns {number} The mumbled string.
  */
 function accum(s) {
   return Array.from(s)

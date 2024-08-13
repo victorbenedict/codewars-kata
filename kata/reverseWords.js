@@ -2,8 +2,8 @@
  * Kata - https://www.codewars.com/kata/51c8991dee245d7ddf00000e
  *
  * Reverses all the words in a sentence
- * @param {string} s - The input sentence.
- * @returns {string} - The reversed sentence.
+ * @param {string} s The input sentence.
+ * @returns {string} The reversed sentence.
  */
 function reverseWords(str) {
   const reverseStr = [];
