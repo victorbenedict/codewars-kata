@@ -2,8 +2,8 @@ const { reverse } = require('lodash');
 
 /**
  * Kata - https://www.codewars.com/kata/51b62bf6a9c58071c600001b/
- * Converts number to roman numerals.
  *
+ * Converts number to roman numerals.
  * @param {number} number The numer.
  * @returns {number} Returns the converted to roman numerals.
  */

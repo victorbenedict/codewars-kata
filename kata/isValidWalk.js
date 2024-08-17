@@ -5,7 +5,6 @@
  * @param {string[]} walk - The array of directions.
  * @returns {boolean} - If the walk takes exactly 10 mins and able to return to the staring point
  */
-
 function isValidWalk(walk) {
   if (walk.length !== 10) return false;
 
